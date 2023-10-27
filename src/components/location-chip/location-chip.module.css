@@ -1,0 +1,28 @@
+.button_not_selected {
+  border: 1px black solid;
+  display: block;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  border-width: 1px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button_selected {
+  border: 1px black solid;
+  display: block;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  background-color: #000;
+  color: #ffffff;
+  border-radius: 1.5rem;
+  border-width: 1px;
+  font-size: 16px;
+  cursor: pointer;
+}

@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  height: 64px;
+  width: 64px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9999px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.container:hover {
+  background: #404243;
+}
+
+.container_active {
+  display: flex;
+  height: 64px;
+  width: 64px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9999px;
+  background: #25ffff;
+  color: #000;
+  cursor: pointer;
+  box-shadow: 0 0 10px #25ffff;
+}
+
+.container_active:hover {
+  background: #25ffff;
+}

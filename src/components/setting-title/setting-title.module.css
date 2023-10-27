@@ -1,0 +1,17 @@
+.setting_header {
+  border-top: #1c1e1f solid 3px;
+  border-bottom: #1c1e1f solid 3px;
+  border-radius: 20px;
+  padding: 10px;
+  display: flex;
+  margin-top: 25px;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.icon_and_title {
+  /* border: red solid 1px; */
+  display: flex;
+  gap: 10px;
+}

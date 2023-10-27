@@ -1,0 +1,24 @@
+.header {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header_heading {
+  font-size: 36px;
+}
+
+.header_tagline {
+  font-size: 18px;
+  margin-top: 16px;
+}
+
+.profile_img {
+  /* border: 1px solid red; */
+  height: 65px;
+  width: 65px;
+  /* height: 10%;
+  width: 10%; */
+  border-radius: 100%;
+}
