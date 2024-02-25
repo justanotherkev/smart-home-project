@@ -11,6 +11,7 @@ function DeviceCard(props) {
     <div className={s.device_card}>
       <h2>Test change</h2>
       <h3>Conflict</h3>
+      <h1>Conflict2</h1>
       <img className={s.device_card_img} src={props.device.image} alt="Device image" />
       <div className={s.device_card_info}>
         <div className={s.device_card_info_container}>
