@@ -99,6 +99,7 @@ function WeatherData() {
           </h1>
           <img src={weatherIcon} />
         </div>
+        <p>Changes from someone else</p>
         <p className={s.date}>
           {days[date.getDay()] +
             " " +
